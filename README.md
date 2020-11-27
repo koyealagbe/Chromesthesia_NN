@@ -1,0 +1,3 @@
+# Chromesthesia Simmulator
+***
+A simple neural network implementation in Python that uses the One vs. All method to predict the color produced by a certain note, based on data from a subject with chromesthesia (tone-color association). The notes in the data set were taken between C3 and B5 on a standard 88-key piano. The networks were trained using batch gradient descent. This repository does not contain the data sets, but it does contain a small demo program that predicts the colors with ~90% accuracy.
